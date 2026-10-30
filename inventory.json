@@ -1,0 +1,1706 @@
+{
+  "sourceCommit": "050f1b4282c914154ab80254e4767ce8c58d0d36",
+  "packages": [
+    {
+      "package": "API",
+      "scenario": "API",
+      "file": "LMSTestPackage_API_modern.zip",
+      "steps": 3,
+      "commands": 30,
+      "source_manifest_sha256": "10732ab5c90c8f487183a5de8e3348eebc97a6542f97960777f13a5df6a1727e",
+      "sha256": "7b6f023b4cff04fea99fba24274126a5bd1a802e1c58e98822fd5b3800531f9d"
+    },
+    {
+      "package": "CM-01",
+      "scenario": "CM-01",
+      "file": "LMSTestPackage_CM-01_modern.zip",
+      "steps": 7,
+      "commands": 24,
+      "source_manifest_sha256": "7b0b89cfafba406e5d29120c8935fed916a881b8dbd9ca8b46b9c6394e9a7db2",
+      "sha256": "270595d26043abb6976fdb90311a4a71fe4ca6a439ea6d51e0d3b7810298b7f7"
+    },
+    {
+      "package": "CM-02a",
+      "scenario": "CM-02a",
+      "file": "LMSTestPackage_CM-02a_modern.zip",
+      "steps": 6,
+      "commands": 15,
+      "source_manifest_sha256": "0733b7c0d4be4dd07b977a2ceed1d1fc4af41b7b2e3c12e03cf8c383ab11a4be",
+      "sha256": "e3c704cc63e50ede7c709c1303aefb92e451cc0cbbd301a9d7c8bb38af922bca"
+    },
+    {
+      "package": "CM-02b",
+      "scenario": "CM-02b",
+      "file": "LMSTestPackage_CM-02b_modern.zip",
+      "steps": 8,
+      "commands": 30,
+      "source_manifest_sha256": "40df274c804869208b6a3cdeff3a6076f7f4ba7338fb04b09c7de8052f8886af",
+      "sha256": "eb5ac63b456d10a37f43eb166ab35298000f217d35df363fe85a56f7d815b40b"
+    },
+    {
+      "package": "CM-03a",
+      "scenario": "CM-03a",
+      "file": "LMSTestPackage_CM-03a_modern.zip",
+      "steps": 9,
+      "commands": 28,
+      "source_manifest_sha256": "3972f8af971c9e18b3f69577ab4e9e177ba108447c7cd09d9d5bc83d97d92fbf",
+      "sha256": "48c8f7d89e86d2e41c08cbd09eeda5cda80a155b369831163cf4f09ebf9a9549"
+    },
+    {
+      "package": "CM-03b",
+      "scenario": "CM-03b",
+      "file": "LMSTestPackage_CM-03b_modern.zip",
+      "steps": 8,
+      "commands": 28,
+      "source_manifest_sha256": "8a21b36131cd3ff7b5e83a321249aee2e355d6041559f42084e5b90ed741a40f",
+      "sha256": "24969ac18c8847004eeaed99f6ade484900ca99eba79d9f577f2fb234fc54518"
+    },
+    {
+      "package": "CM-04a",
+      "scenario": "CM-04a",
+      "file": "LMSTestPackage_CM-04a_modern.zip",
+      "steps": 10,
+      "commands": 29,
+      "source_manifest_sha256": "efa53c52e0b369e81a88bb84d92fa36a84e21eeed2fcecf2363d7f4a95459d34",
+      "sha256": "69e0f1cbd1ca1ee909b209d4834afb344195348edfdc89b3ea9c4cbd369bf8e8"
+    },
+    {
+      "package": "CM-04b",
+      "scenario": "CM-04b",
+      "file": "LMSTestPackage_CM-04b_modern.zip",
+      "steps": 6,
+      "commands": 28,
+      "source_manifest_sha256": "b237c11013ad87a684657212a283ec68bd538b7134bf56b1d04cd3c8d2853320",
+      "sha256": "49b38940c57b888381b5d062749e9ac4e3bfcc1355980295eedb2f99dd0d80e4"
+    },
+    {
+      "package": "CM-04c",
+      "scenario": "CM-04c",
+      "file": "LMSTestPackage_CM-04c_modern.zip",
+      "steps": 5,
+      "commands": 15,
+      "source_manifest_sha256": "626a313d5f655f9b43b31fcf90f4783180e93b4355ad14414d49450b4a3b3136",
+      "sha256": "b4876db54de854dc923c6889efe4d318fb98aaba8ce2011fa871612ea45a280d"
+    },
+    {
+      "package": "CM-04d",
+      "scenario": "CM-04d",
+      "file": "LMSTestPackage_CM-04d_modern.zip",
+      "steps": 10,
+      "commands": 29,
+      "source_manifest_sha256": "dde2b73f926fd075f2ebe93854035af8b74a7941f8b40bdcce6b78f9a0495b63",
+      "sha256": "f7f93ac0076f41314726346f8ce8d5d23cbf3f71097562fc930863ac99c09462"
+    },
+    {
+      "package": "CM-05",
+      "scenario": "CM-05",
+      "file": "LMSTestPackage_CM-05_modern.zip",
+      "steps": 5,
+      "commands": 14,
+      "source_manifest_sha256": "9c862b33ba320a6c71e16f94b1d923952195a74d809b8852ed31bc5c63b36214",
+      "sha256": "eab261a7ea52288a8e66401229c110499d11466e1e29eaafe0364d2e61d6f8a1"
+    },
+    {
+      "package": "CM-06",
+      "scenario": "CM-06",
+      "file": "LMSTestPackage_CM-06_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "cc6d2c8cfbbcce34998bbf7f562956985d35b2f1aca5d7c359e667e30e4d24cd",
+      "sha256": "6da2d987c6470510cc58cb4ac03577b7cdcd689838edaf40d117b8244f415e9a"
+    },
+    {
+      "package": "CM-07a",
+      "scenario": "CM-07a",
+      "file": "LMSTestPackage_CM-07a_modern.zip",
+      "steps": 8,
+      "commands": 16,
+      "source_manifest_sha256": "452b7b9aa016b9657e17be1bceed98f18ccaec18ceceb6bc022acd6ba8836c6a",
+      "sha256": "6d001cb3b02eff5a3a26177a730b3d134b07b6f6f30dbe91e7a97120248c3d3d"
+    },
+    {
+      "package": "CM-07b",
+      "scenario": "CM-07b",
+      "file": "LMSTestPackage_CM-07b_modern.zip",
+      "steps": 6,
+      "commands": 12,
+      "source_manifest_sha256": "a32ba907438900e67c8d56c1d43bb8ec4893a63735bce4c3051e98b16138db62",
+      "sha256": "8ecac52fa129eeb76519c9299bd32fd9512b6a08414be93dea110930e8842b58"
+    },
+    {
+      "package": "CM-07c",
+      "scenario": "CM-07c",
+      "file": "LMSTestPackage_CM-07c_modern.zip",
+      "steps": 5,
+      "commands": 10,
+      "source_manifest_sha256": "f648c355fa712b32fb42388583469a97b8afc591e301ed0e517aa007ae475851",
+      "sha256": "a9de576b8694791a0fe5dce1cb2f793e83e08e4a373283ee5529ade8418e8e20"
+    },
+    {
+      "package": "CM-07d",
+      "scenario": "CM-07d",
+      "file": "LMSTestPackage_CM-07d_modern.zip",
+      "steps": 7,
+      "commands": 14,
+      "source_manifest_sha256": "19b3dc1d840c692226dbbe03b39f2a99a80d46064bc97134f15ca6d112dcb850",
+      "sha256": "aec211f976ab81f0887e32e955517d1170ad2018f30d2027ff90d298807f5fe7"
+    },
+    {
+      "package": "CM-07e",
+      "scenario": "CM-07e",
+      "file": "LMSTestPackage_CM-07e_modern.zip",
+      "steps": 5,
+      "commands": 11,
+      "source_manifest_sha256": "c2807472befa15c8437c7aac147fd28783d08a076796249900e290bb8cedff46",
+      "sha256": "9d3e8366fcf97488615f89c1d8723bdecb51a53620f95dca90df08877f8144d4"
+    },
+    {
+      "package": "CM-07f",
+      "scenario": "CM-07f",
+      "file": "LMSTestPackage_CM-07f_modern.zip",
+      "steps": 3,
+      "commands": 6,
+      "source_manifest_sha256": "659d177cae2202d5c39c4c907fbe6c97c18f36071c35dc3bced94514960effe1",
+      "sha256": "7fe2f3943309d28785b47b5190a236f6aa06c4fdfaf1d92cbdea02e0cc521ce4"
+    },
+    {
+      "package": "CM-08",
+      "scenario": "CM-08",
+      "file": "LMSTestPackage_CM-08_modern.zip",
+      "steps": 2,
+      "commands": 4,
+      "source_manifest_sha256": "c73aa7cd1f4ca78715dd0567440aece658b3aaa6e9772dd8c7e563b9ffff0797",
+      "sha256": "a7ff8b5ea0e60d68e7dd362678e3f9a3c62cb793a8916e3c0a775c91abfd2878"
+    },
+    {
+      "package": "CM-09aa",
+      "scenario": "CM-09aa",
+      "file": "LMSTestPackage_CM-09aa_modern.zip",
+      "steps": 4,
+      "commands": 9,
+      "source_manifest_sha256": "b73dc88dbfe153d04d6c60341ef310367df2bde536d5ab3effe7a94bac190797",
+      "sha256": "42373a6d32456244a75237169c186323f8328ca97d7e71daff896cf8756b2962"
+    },
+    {
+      "package": "CM-09ab",
+      "scenario": "CM-09ab",
+      "file": "LMSTestPackage_CM-09ab_modern.zip",
+      "steps": 3,
+      "commands": 7,
+      "source_manifest_sha256": "be0db6b5bd7441efd69961c0a040c89caf722d0d16e02d5dd2868ce5a0747554",
+      "sha256": "17e215b492cca2cceb40b4e8c26ca88dc8e658e83a3f59a57ca4ea7a9960f19b"
+    },
+    {
+      "package": "CM-09ba",
+      "scenario": "CM-09ba",
+      "file": "LMSTestPackage_CM-09ba_modern.zip",
+      "steps": 4,
+      "commands": 8,
+      "source_manifest_sha256": "85891a89fc10578e99d79401c968a4d32d643102fec866e4f769f2c629c86aeb",
+      "sha256": "f0bd0b8da32d8bb25cb2bc8fd8388cf5c9461589c3f3480fea32f7234cc28fec"
+    },
+    {
+      "package": "CM-09bb",
+      "scenario": "CM-09bb",
+      "file": "LMSTestPackage_CM-09bb_modern.zip",
+      "steps": 3,
+      "commands": 6,
+      "source_manifest_sha256": "bdb342799ed6cdf8bf5cc27ee84c65ba35461df035b75e1525627049f35b6c82",
+      "sha256": "e8b8d0eafdc534399fa92e3d2e97e3ddb83f7bb626a0bb2a9f02b30444e1978e"
+    },
+    {
+      "package": "CM-09ca",
+      "scenario": "CM-09ca",
+      "file": "LMSTestPackage_CM-09ca_modern.zip",
+      "steps": 4,
+      "commands": 8,
+      "source_manifest_sha256": "1bc025ce0aff918c2530ebf7f4483635268562753d390c99a7f9b9f402c04b4a",
+      "sha256": "9c18658ba8acdb357186fd216e31c277ad6c55401a4d919c3b9ce7ccc203ca18"
+    },
+    {
+      "package": "CM-09cb",
+      "scenario": "CM-09cb",
+      "file": "LMSTestPackage_CM-09cb_modern.zip",
+      "steps": 3,
+      "commands": 6,
+      "source_manifest_sha256": "7f0b3f25bd403b7056507870dd1921ec4e52298c3562397b74d84de51722aef8",
+      "sha256": "e49aa62398e913afafa5f587c23202c374e08de76c7c02f662ced2335075aca4"
+    },
+    {
+      "package": "CM-10",
+      "scenario": "CM-10",
+      "file": "LMSTestPackage_CM-10_modern.zip",
+      "steps": 3,
+      "commands": 7,
+      "source_manifest_sha256": "5dc1d5ef87a2828f1dbda052039d214537eb670e6747400e9bc1474be633f505",
+      "sha256": "b5129128b5fb153d033ee7dbdf49e3469ad50f8c1cbb2f35d6879376c4e8cdf1"
+    },
+    {
+      "package": "CM-11",
+      "scenario": "CM-11",
+      "file": "LMSTestPackage_CM-11_modern.zip",
+      "steps": 2,
+      "commands": 10,
+      "source_manifest_sha256": "440d40090fce3beacd6fda50ede69d5c29085f1ca38c747a3c003602d610c300",
+      "sha256": "35f578c9a37afc2d759011b08d634fc83b940da09f4f93014efd9d0ad843e593"
+    },
+    {
+      "package": "CM-13",
+      "scenario": "CM-13",
+      "file": "LMSTestPackage_CM-13_modern.zip",
+      "steps": 4,
+      "commands": 11,
+      "source_manifest_sha256": "250c8b076d097c5922e56a48a7ebc49e86cac207fc972c09c6cab5fcff4bfadd",
+      "sha256": "1d6cf9ae2f028219ef9c365688f63c6ec671c98392545153886e0ba998bcc38b"
+    },
+    {
+      "package": "CM-14",
+      "scenario": "CM-14",
+      "file": "LMSTestPackage_CM-14_modern.zip",
+      "steps": 7,
+      "commands": 20,
+      "source_manifest_sha256": "b5c22e2fed23c7e2032ca28567ad8e5e8850a627991b0e2ad62dcbdda14fb0fa",
+      "sha256": "9b29efc557de57bd70c22696c5ac14735dad9136d9df487963e6789390d2b6c1"
+    },
+    {
+      "package": "CM-15",
+      "scenario": "CM-15",
+      "file": "LMSTestPackage_CM-15_modern.zip",
+      "steps": 4,
+      "commands": 12,
+      "source_manifest_sha256": "8d510b9fca531c63308fb4352f61754e7ec2cfb58dca94aa2f77be15de89fe43",
+      "sha256": "d20bda483129f7747bd403200552853feba51eaf965956890c33b928a1450caf"
+    },
+    {
+      "package": "CM-16",
+      "scenario": "CM-16",
+      "file": "LMSTestPackage_CM-16_modern.zip",
+      "steps": 4,
+      "commands": 11,
+      "source_manifest_sha256": "630f6438160d531a5e86289f9b28a6d7f838ca798b7aad769a5bcf9e6370f56f",
+      "sha256": "d4b1060ab5e509caa48d743ad0a2eaa735a7c11a40123035587e1d837f7a7667"
+    },
+    {
+      "package": "CM-17a",
+      "scenario": "CM-17a",
+      "file": "LMSTestPackage_CM-17a_modern.zip",
+      "steps": 5,
+      "commands": 11,
+      "source_manifest_sha256": "bae474d55d5e7289b7bf0e12efa237027db2a7c4b20d9d8b8ea5911c845fd0cf",
+      "sha256": "981b4b7f3570aefbe280aba6682aef4d26c8db46c83ee54e3af29b0a6bf3c60e"
+    },
+    {
+      "package": "CM-17b",
+      "scenario": "CM-17b",
+      "file": "LMSTestPackage_CM-17b_modern.zip",
+      "steps": 3,
+      "commands": 6,
+      "source_manifest_sha256": "ee6215f3747bfddf9acb9e7e0dd3a803f6ff493ef805e98106370f0622cbdd85",
+      "sha256": "6b95c3232c748f4d26fa8e14a1318a464d817a18767f72d3081c087a6e0cf512"
+    },
+    {
+      "package": "CO-01",
+      "scenario": "CO-01",
+      "file": "LMSTestPackage_CO-01_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "ffd7deb0bb7a3086e65a88e41a6929c836bfce06ba69f91a86c28c23d6514b24",
+      "sha256": "808cd0bd762821cb7768a5d9d7a201841bf820b02f50ee7edc569bb17cf44ab9"
+    },
+    {
+      "package": "CO-02a",
+      "scenario": "CO-02a",
+      "file": "LMSTestPackage_CO-02a_modern.zip",
+      "steps": 2,
+      "commands": 8,
+      "source_manifest_sha256": "bd3006eb0b91cedf816971004e8db21ece46b3d12d93c2c7faab8855e999b1f1",
+      "sha256": "47a428c8490391102a83f56b472064ca82200061b560cafcc7bd18a04420dfb2"
+    },
+    {
+      "package": "CO-02b",
+      "scenario": "CO-02b",
+      "file": "LMSTestPackage_CO-02b_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "95fd153863951f72a602b11c0741217097431f3f867c304351774e208f96174c",
+      "sha256": "b75f4a73175163f5bfae320ea091f6cef8859b26439de30912ccfd5e597c3955"
+    },
+    {
+      "package": "CO-03",
+      "scenario": "CO-03",
+      "file": "LMSTestPackage_CO-03_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "ef572e26777903aa0f420c1bded859937157ed89d732ad6a9e429cd68f6b2c27",
+      "sha256": "d04ae3b3f112e7fa5c4b6d278cf5cb442d47388b43242526c3553af898007332"
+    },
+    {
+      "package": "CO-04a",
+      "scenario": "CO-04a",
+      "file": "LMSTestPackage_CO-04a_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "9014594246e42000fd9afda0fb8a3020d958dbbf331c3ac6bb15fa59b623a482",
+      "sha256": "6a454db9ab44d046c52e22afa8c875d2f4aca07bec2195146743c46a493a5ce2"
+    },
+    {
+      "package": "CO-04b",
+      "scenario": "CO-04b",
+      "file": "LMSTestPackage_CO-04b_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "bb6f1bcab32a400e2a70b2b79ff951f88914299977f10ba1ef1513be8f33f282",
+      "sha256": "935aeabad887a35c90cc0f7c76a3aa4812551b1529f223e871b4541d52a995b2"
+    },
+    {
+      "package": "CO-04c",
+      "scenario": "CO-04c",
+      "file": "LMSTestPackage_CO-04c_modern.zip",
+      "steps": 3,
+      "commands": 9,
+      "source_manifest_sha256": "5136bd47ab8270dcf9cbcc80eca5a3a59e699a4075741f4cf9ca6f57d5886b66",
+      "sha256": "32c1a9995577b8c541239a390919f25587a9002b2dceec18f4c84a0235edc43b"
+    },
+    {
+      "package": "CO-05a",
+      "scenario": "CO-05a",
+      "file": "LMSTestPackage_CO-05a_modern.zip",
+      "steps": 2,
+      "commands": 8,
+      "source_manifest_sha256": "a4d01054e1c7b14e43bba735035b470fd41fe95f0b84f51c6f58cb0fb239d483",
+      "sha256": "3740ff7bf7191cfd55f084cb07817f978ab9ffc79830b3cf2b29c844144d46b5"
+    },
+    {
+      "package": "CO-05b",
+      "scenario": "CO-05b",
+      "file": "LMSTestPackage_CO-05b_modern.zip",
+      "steps": 2,
+      "commands": 8,
+      "source_manifest_sha256": "87c8eb142b43ba689c069949fab8e54d177304f8ae9312de8595437ca45d287d",
+      "sha256": "d31fba281bf7c0e80cc24cc6dd70c0dd3b969d560708e702ab6a9645db26be30"
+    },
+    {
+      "package": "CO-06",
+      "scenario": "CO-06",
+      "file": "LMSTestPackage_CO-06_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "a26129138b630b9e29bbc78f05d71c2ab2dd35ec2c43a4e19a2a0467199338bf",
+      "sha256": "8ebe89928ff61bca784e5344aca033cbb1661b7272830c3d47a7cb4ec51a8574"
+    },
+    {
+      "package": "CO-07a",
+      "scenario": "CO-07a",
+      "file": "LMSTestPackage_CO-07a_modern.zip",
+      "steps": 5,
+      "commands": 27,
+      "source_manifest_sha256": "da55573a3a0d1edda589bd1de7e6f215bad315232f7d70971ac000365d6d964f",
+      "sha256": "6b7086bfd2765fe60112ad0c2d01d7a47b87806b95bbebe3e2e9659be464e2d8"
+    },
+    {
+      "package": "CO-07b",
+      "scenario": "CO-07b",
+      "file": "LMSTestPackage_CO-07b_modern.zip",
+      "steps": 5,
+      "commands": 33,
+      "source_manifest_sha256": "e34c2c26322f572f276fe02b77139b23ff9b8c97753f763b33f40487038ab956",
+      "sha256": "ac4f1cb49388aa13c27788f3d1debffa53b3b23db6adaad587f1638c77666581"
+    },
+    {
+      "package": "CO-08a",
+      "scenario": "CO-08a",
+      "file": "LMSTestPackage_CO-08a_modern.zip",
+      "steps": 3,
+      "commands": 11,
+      "source_manifest_sha256": "19cb220c316988866d3278c74d5c04e1f36bc8de1a4a9ac350c23fbfe9ca0059",
+      "sha256": "68ac2318395a0f4b4439604cd0283bb811b42cb904dabd67bdd7d14a6c662b8b"
+    },
+    {
+      "package": "CO-08b",
+      "scenario": "CO-08b",
+      "file": "LMSTestPackage_CO-08b_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "f1712339d7d05081c872169b980c998f85113fe327792543b89c962b8f13c3c1",
+      "sha256": "7eb3991dedf3897d9a3b8e69cb0cd3050a917f35134cb74449e230427e688233"
+    },
+    {
+      "package": "CO-09",
+      "scenario": "CO-09",
+      "file": "LMSTestPackage_CO-09_modern.zip",
+      "steps": 3,
+      "commands": 11,
+      "source_manifest_sha256": "720ce8d22929a8676708c9532a5cfa9c1d6fcd4de4d200cb67ce0ef9ff77c7ac",
+      "sha256": "dc20b9d2189b99109c38fd8e086fa4aba0688d480022919cab0451f18110ee6c"
+    },
+    {
+      "package": "CO-10",
+      "scenario": "CO-10",
+      "file": "LMSTestPackage_CO-10_modern.zip",
+      "steps": 7,
+      "commands": 134,
+      "source_manifest_sha256": "0aa0dfae550369c8e8711602a4ef08fcb3d28890286e047d4b5cdaa0aa9d7371",
+      "sha256": "57667366f1c0741a8d54e32fd7be63720793fe32128eed4bdc794942264d2f7a"
+    },
+    {
+      "package": "CO-11",
+      "scenario": "CO-11",
+      "file": "LMSTestPackage_CO-11_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "3a8cc9c801c2e11edf63182b20632cae74c33d921cf1c451f475d74dff339dc8",
+      "sha256": "e61f6cf97093454724b4fdfa0f40f18119b5a22b332abb1ee88b79a2b71ee6c4"
+    },
+    {
+      "package": "CO-12a",
+      "scenario": "CO-12a",
+      "file": "LMSTestPackage_CO-12a_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "f8e1c8182a75ea97f3e10babb3f3c561cfbe1cf809a3df1deaad3926b548ae23",
+      "sha256": "bc2c08096aa010819aadbcdb141531ea75cfbf5ca1b6aff0f36cb7495a12d898"
+    },
+    {
+      "package": "CO-12b",
+      "scenario": "CO-12b",
+      "file": "LMSTestPackage_CO-12b_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "1fadae44f0b782a13992922492dca265f3c274446ffe778e9d8888996c9b1a54",
+      "sha256": "fd3e2614b7308267491fbb61d41d401460e21e17be7a1c02652fa122b2f6f6ed"
+    },
+    {
+      "package": "CO-12c",
+      "scenario": "CO-12c",
+      "file": "LMSTestPackage_CO-12c_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "8c1dfa0e68c32b49233f731af5ab183804c6d84e126cfe3b8c2f27236cbc9bfe",
+      "sha256": "6bbdded8026d5be061c0946ba47b20df38985165c95f9e3b4c80d76d12dbe66a"
+    },
+    {
+      "package": "CO-12d",
+      "scenario": "CO-12d",
+      "file": "LMSTestPackage_CO-12d_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "e34c907a0b589b007c3f869aa19b961d74b6f5e0627fbb1dd5d61a18a000aaa2",
+      "sha256": "a110c2539eefeb74ad09bba46f709187b85f0ea1df70dd3a17cdbbd5635d2eda"
+    },
+    {
+      "package": "CO-13a",
+      "scenario": "CO-13a",
+      "file": "LMSTestPackage_CO-13a_modern.zip",
+      "steps": 2,
+      "commands": 8,
+      "source_manifest_sha256": "9b3776a4e9d96ee6ad68ba824141602bc26762e59d18bf1481899c321ce8f463",
+      "sha256": "85f650d12c6514a9dad28a886608d3ca3a5812d376bf600513146e1f942a23a8"
+    },
+    {
+      "package": "CO-13b",
+      "scenario": "CO-13b",
+      "file": "LMSTestPackage_CO-13b_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "ad43e8aed3436b83a135ac845a4d3886e6b742cd4c8502060aa435a942a9c80b",
+      "sha256": "55b5517ad14132b5c6ca29179f73115e69fdf23bf11b9aaa5347978d5c18f835"
+    },
+    {
+      "package": "CT-01",
+      "scenario": "CT-01",
+      "file": "LMSTestPackage_CT-01_modern.zip",
+      "steps": 6,
+      "commands": 21,
+      "source_manifest_sha256": "208acdc0e839aaab12e62b8e4f287d96f12f60f3457f55782ced246e822ab9ce",
+      "sha256": "e8c3de4b60264d98e9e4b10e7595394c66077552c8ec8c70a857c88557a54292"
+    },
+    {
+      "package": "CT-02",
+      "scenario": "CT-02",
+      "file": "LMSTestPackage_CT-02_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "6577f6d7998eedfd4191450d3c7b6aaec4a5fea3502a93dbeb0b155da6cdc81b",
+      "sha256": "278fc49c00f1a52c649695577392cda8060b0b3a084d1c72aab0fbdde529773c"
+    },
+    {
+      "package": "CT-03",
+      "scenario": "CT-03",
+      "file": "LMSTestPackage_CT-03_modern.zip",
+      "steps": 6,
+      "commands": 21,
+      "source_manifest_sha256": "dfd239111cf3123393c7ce3a012e9e552ecc249d6dc9b345bc5f8728bf39d224",
+      "sha256": "9b95f9e3e6dac11d8fe9dd92f75cc5ef4ef939791aa76f90ac80b554b76a6512"
+    },
+    {
+      "package": "CT-04",
+      "scenario": "CT-04",
+      "file": "LMSTestPackage_CT-04_modern.zip",
+      "steps": 6,
+      "commands": 23,
+      "source_manifest_sha256": "cbac56f71aa135b3571a81afa21f48ae0ac3a0b622d0df35c2c6f3c53a3bfee2",
+      "sha256": "dace7edd787068412e8ce774ddde3d71420ce013ca257eb7f314381db40d156d"
+    },
+    {
+      "package": "CT-05",
+      "scenario": "CT-05",
+      "file": "LMSTestPackage_CT-05_modern.zip",
+      "steps": 4,
+      "commands": 14,
+      "source_manifest_sha256": "40f325ac139a9ccc9ec3066a02fe4dc853155a07395badfbbb3dbd63922aba87",
+      "sha256": "3e4b250eefdcc4af3cc9ccc1655b4ee9fa8c97f6d4a6d109b11d04df5c1d2831"
+    },
+    {
+      "package": "CT-06",
+      "scenario": "CT-06",
+      "file": "LMSTestPackage_CT-06_modern.zip",
+      "steps": 5,
+      "commands": 18,
+      "source_manifest_sha256": "24585512b727525292e50fb582951caeacd81d2f611a3102dc64d563e8a0ad1a",
+      "sha256": "b55d8aaccd5f9d1dc34e59dcde8ff5c81e69e7f3d34266add8dcf4945f8511c3"
+    },
+    {
+      "package": "CT-07",
+      "scenario": "CT-07",
+      "file": "LMSTestPackage_CT-07_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "6ac0ce0e535a02f19410d6ed53233e67be5da24b35640e4e9ba5ed182dc353c4",
+      "sha256": "05b3ced971f35230bcb00f6fb0babf3fbfbe6b9d80e65087d02d83058efaade5"
+    },
+    {
+      "package": "DDMa",
+      "scenario": "DDM",
+      "file": "LMSTestPackage_DDMa_modern.zip",
+      "steps": 13,
+      "commands": 120,
+      "source_manifest_sha256": "6e0e5a30989728f7ac6229d8483d92763f9406cee42aa3336601c39d504a2247",
+      "sha256": "2aa4b9fb2927a9a82d118f6b89640c088f7b90ef5b78037f003146336afe8e6d"
+    },
+    {
+      "package": "DDMb",
+      "scenario": "DDM",
+      "file": "LMSTestPackage_DDMb_modern.zip",
+      "steps": 13,
+      "commands": 120,
+      "source_manifest_sha256": "db62063cd36eeb1e2030ff21da4544bf72335e533a5522c449061219e27edfa9",
+      "sha256": "089e5537abe35b7895c34b365cfc51f0b0c506acbcdca3e653761d6fc5804621"
+    },
+    {
+      "package": "DMB",
+      "scenario": "DMB",
+      "file": "LMSTestPackage_DMB_modern.zip",
+      "steps": 25,
+      "commands": 235,
+      "source_manifest_sha256": "fef2509b75297c6c0bcb3970eb77e45b7a5825e1c96c5b604c5a8fda6016757a",
+      "sha256": "922d4011c10ae2d8869879cb9d8e2662c9423be3a45f11a43cec27987b992e33"
+    },
+    {
+      "package": "DMI",
+      "scenario": "DMI",
+      "file": "LMSTestPackage_DMI_modern.zip",
+      "steps": 8,
+      "commands": 8162,
+      "source_manifest_sha256": "17d90242294fa3aea7234b59f970bcc0a69c3fa91d08b8ad5140c3ee1705eecf",
+      "sha256": "4304a6ba4bfb4778b9ac5b381f20a9838e33915f3523b15ae9a271636e98f986"
+    },
+    {
+      "package": "MS-01",
+      "scenario": "MS-01",
+      "file": "LMSTestPackage_MS-01_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "a8a181442927ffe85c3ff87160e992b60cec63a89e78d0184fa0ac5c7bad5241",
+      "sha256": "0fda47df336f77b1600a7a6cbe3f4f6098f6db8280e2c1ad6325c640d0c7c4a8"
+    },
+    {
+      "package": "MS-02",
+      "scenario": "MS-02",
+      "file": "LMSTestPackage_MS-02_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "6092c48a7d4966d3ccb9ec48e586264cd4a51b2d47b432d3c718b4346f661128",
+      "sha256": "171e34f92205022c454712bf8d8ee0da5e271d2a7c73264f8a3e8165032de6ca"
+    },
+    {
+      "package": "MS-03",
+      "scenario": "MS-03",
+      "file": "LMSTestPackage_MS-03_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "6de1e5f9d6323190d51a6e28d458bc89cb1876e606420400951c145a9738a40d",
+      "sha256": "9e769e324304abaf322ad34dda3ac0331782f212a7b27e0ca3ce4616bb0debd0"
+    },
+    {
+      "package": "MS-04",
+      "scenario": "MS-04",
+      "file": "LMSTestPackage_MS-04_modern.zip",
+      "steps": 6,
+      "commands": 15,
+      "source_manifest_sha256": "3195ab50ba933bbee7788f7f3d91a1fb9284e557703234aceb881e02a7618df7",
+      "sha256": "97a18179beabdecf130ac68a7dcf30aa2403bafee97bbc4662c74c4e10bb161f"
+    },
+    {
+      "package": "MS-05a",
+      "scenario": "MS-05a",
+      "file": "LMSTestPackage_MS-05a_modern.zip",
+      "steps": 5,
+      "commands": 13,
+      "source_manifest_sha256": "6afaffae6a8fed9e891d203a8d842702e4934225a377d5e482e0968f370ab8df",
+      "sha256": "9176ca919a4144752d4e9573263b0111eade2922e8f5b44f358b90bbccffa255"
+    },
+    {
+      "package": "MS-05b",
+      "scenario": "MS-05b",
+      "file": "LMSTestPackage_MS-05b_modern.zip",
+      "steps": 5,
+      "commands": 20,
+      "source_manifest_sha256": "2ddd8a15700a26796f95b24d35b0492973978454410e53b7cf3271218d346f1b",
+      "sha256": "2bf095e8283ad40ab2fa07b93d82b07d1d5004da81092fcb7a807cc02e284c27"
+    },
+    {
+      "package": "MS-06",
+      "scenario": "MS-06",
+      "file": "LMSTestPackage_MS-06_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "84594c6532ffbce661db920623efa07be0f03d6c1049ef6cbe76ea119af8a35b",
+      "sha256": "b13ad8f556753880ac8a60aa37a7f37b6d363bb0fc9155fa46066c1f1624b168"
+    },
+    {
+      "package": "MS-07",
+      "scenario": "MS-07",
+      "file": "LMSTestPackage_MS-07_modern.zip",
+      "steps": 5,
+      "commands": 20,
+      "source_manifest_sha256": "79f80d7a013d9fda05ffc1c64cd2a9e87f5bf76bd0427c4aa957ee5b4c8060f4",
+      "sha256": "df564c36e48f9b8268cd1153b7faf1ff6fcbc520a569be54806968b8aeb7ec46"
+    },
+    {
+      "package": "OB-01a",
+      "scenario": "OB-01a",
+      "file": "LMSTestPackage_OB-01a_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "5e0600045e22b0f2dee2fd4bb965c79b646d1a675b16c7d1e1084910f74e9420",
+      "sha256": "9b0cc454afb0bcb17c3c69c07be036902996015c3e9148e99575ad1db833d420"
+    },
+    {
+      "package": "OB-01b",
+      "scenario": "OB-01b",
+      "file": "LMSTestPackage_OB-01b_modern.zip",
+      "steps": 2,
+      "commands": 13,
+      "source_manifest_sha256": "c39008b4438edead55a9dac0513d7eb1eeb55c9b4575c51352c760af2f3a5f4a",
+      "sha256": "f3ac03248f639f58bbeb352aa74855f122c8d05e39a9c9b4905cc8bb85c80aea"
+    },
+    {
+      "package": "OB-01c",
+      "scenario": "OB-01c",
+      "file": "LMSTestPackage_OB-01c_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "c3dd7308a8f321463982c5d09674b1accadc9b49e33878f29086a7834e24a4f7",
+      "sha256": "d7e5fdf979ca117257bf6d028d391be08195a9001b629630692b1740199c1ae3"
+    },
+    {
+      "package": "OB-02a",
+      "scenario": "OB-02a",
+      "file": "LMSTestPackage_OB-02a_modern.zip",
+      "steps": 2,
+      "commands": 8,
+      "source_manifest_sha256": "88a7f7d097dc88ef628582d583597ce94f15a91044be9254c860c691a4da0fde",
+      "sha256": "413b1d21a584bd02f95ff5be86937f87397495d7e5b41b06347312956abe035c"
+    },
+    {
+      "package": "OB-02b",
+      "scenario": "OB-02b",
+      "file": "LMSTestPackage_OB-02b_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "b4e39ae8b26f6a039352c314688e14f06c85951ae0e90e6086c121c9a7a67f14",
+      "sha256": "7756ac0b1ee7cae92847d0b4efb515bd743736477d8ed1047a91f639bdb9319c"
+    },
+    {
+      "package": "OB-03a",
+      "scenario": "OB-03a",
+      "file": "LMSTestPackage_OB-03a_modern.zip",
+      "steps": 3,
+      "commands": 17,
+      "source_manifest_sha256": "4ee0246b4950610fd25c3f80e49df92d594c54b00a61d117440996f26894e1f9",
+      "sha256": "89aefb4ed34e4b95ece6e1409addd7b6f724ed89919cb75d9e73166118dafee1"
+    },
+    {
+      "package": "OB-03b",
+      "scenario": "OB-03b",
+      "file": "LMSTestPackage_OB-03b_modern.zip",
+      "steps": 12,
+      "commands": 43,
+      "source_manifest_sha256": "3b29bb3d460e02f7ab45eaa65157879ad207bd0b384d882148acdbef99579003",
+      "sha256": "d3fa935858ad1f8a47f09f9eabd16fa3ba0d97041f38edc1fb955701b6233b68"
+    },
+    {
+      "package": "OB-03c",
+      "scenario": "OB-03c",
+      "file": "LMSTestPackage_OB-03c_modern.zip",
+      "steps": 1,
+      "commands": 2,
+      "source_manifest_sha256": "ad389b02482cbce6977423e1924b028a634d795d48d583f7bee4eb631d475817",
+      "sha256": "59895522e2aba31080e3d7f7f702330e871af5f31cec1b26e572be3c12e4d99a"
+    },
+    {
+      "package": "OB-04",
+      "scenario": "OB-04",
+      "file": "LMSTestPackage_OB-04_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "ca589c1d1193ee056fd197cfe912a85ffdfb7732b8ffe323e1004bab7adc8e68",
+      "sha256": "4e3885395ea275eb0cc2f0bce99b747652314be7d7d3281aaf5bed53f8b7c687"
+    },
+    {
+      "package": "OB-05a",
+      "scenario": "OB-05a",
+      "file": "LMSTestPackage_OB-05a_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "d9aa016866141262d6fd674032a5c09963d8ebb3f12e5782cfb7d7355ba357ef",
+      "sha256": "2acab1888291b06ccd8d74416887c42cf472f23e2d939c8ea01b000326e0ef1f"
+    },
+    {
+      "package": "OB-05b",
+      "scenario": "OB-05b",
+      "file": "LMSTestPackage_OB-05b_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "56817163b45cbd38c66889b27480d0a0a3afaefdccc3222b102d681fa25005ff",
+      "sha256": "22788b546cbe7c8a4696becb06c29b844792086bfdf2eafcc7c599e89da5c2e2"
+    },
+    {
+      "package": "OB-05c",
+      "scenario": "OB-05c",
+      "file": "LMSTestPackage_OB-05c_modern.zip",
+      "steps": 3,
+      "commands": 9,
+      "source_manifest_sha256": "8dbad6974d18d6aa3f1b3eeb04c357f44a5fadf2518de7c6fc6215730d523e34",
+      "sha256": "a8ebcfb3351a3a06df8de8a62c20875ab71404ee198c633b4095cc3f1c6f7684"
+    },
+    {
+      "package": "OB-06",
+      "scenario": "OB-06",
+      "file": "LMSTestPackage_OB-06_modern.zip",
+      "steps": 2,
+      "commands": 19,
+      "source_manifest_sha256": "7cb9c3def427cb52dcd0b8343bb6d7ef3a96b49e9c1e63a4d56dd9ccb73698e3",
+      "sha256": "f9e4ab3f915ea68def642e5e80bb5e9a97002914a7a4a9577a8ad832ad43aebe"
+    },
+    {
+      "package": "OB-07a",
+      "scenario": "OB-07a",
+      "file": "LMSTestPackage_OB-07a_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "32ea1ee27afa7a3ff6257f19884a87c8bc8bd1730374c404ef2b68fbdf854799",
+      "sha256": "9d79b52c89856f71b14c220e501368735af843cbdccc14ff04c07d3b2f47756b"
+    },
+    {
+      "package": "OB-07b",
+      "scenario": "OB-07b",
+      "file": "LMSTestPackage_OB-07b_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "19b7713bac9dee4fbf36b73bd8c95f181aab1a99bd2ba55ca16f1764ea505ecb",
+      "sha256": "c1ab9d2b3579784f734b314f1857c47798882e4876b1bf7053001ae7277eb5db"
+    },
+    {
+      "package": "OB-08a",
+      "scenario": "OB-08a",
+      "file": "LMSTestPackage_OB-08a_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "8f9c658e04c54a009da73208719f5f4f4a2fecf92271d0a5b9b17f87cd0b2c12",
+      "sha256": "2c509ce7e99b9c048d3fff799c557d548ff7a7a06f63f581be82d70e39af8c1a"
+    },
+    {
+      "package": "OB-08b",
+      "scenario": "OB-08b",
+      "file": "LMSTestPackage_OB-08b_modern.zip",
+      "steps": 2,
+      "commands": 7,
+      "source_manifest_sha256": "df2e65766d5f0cdae36f8fe05630d27bd7ffd1a5a2e152c2caaa17d9a2267fb1",
+      "sha256": "2ba9416f3a1901ebeaed06276f152f420b97acebd1cb04254897c72408ab0d2a"
+    },
+    {
+      "package": "OB-09a",
+      "scenario": "OB-09a",
+      "file": "LMSTestPackage_OB-09a_modern.zip",
+      "steps": 5,
+      "commands": 27,
+      "source_manifest_sha256": "2b900e86ee67ed5a593b6a016f5feef29f228263bd750cb5c3b6dc9514481652",
+      "sha256": "abdb432bb4890b6fd0b2c309e764062febb4c6c285c6aabdeefa2736e73d6625"
+    },
+    {
+      "package": "OB-09b",
+      "scenario": "OB-09b",
+      "file": "LMSTestPackage_OB-09b_modern.zip",
+      "steps": 6,
+      "commands": 36,
+      "source_manifest_sha256": "0717486e09e5b18cbeae755035edf4463ea1aaa8a2ac0f4c4cc91a1e0a3286eb",
+      "sha256": "5853abb0fe12a439ad950d1064d7429263650fd02aa7d97af3f1c4f03e7bcb8d"
+    },
+    {
+      "package": "OB-10a",
+      "scenario": "OB-10a",
+      "file": "LMSTestPackage_OB-10a_modern.zip",
+      "steps": 4,
+      "commands": 57,
+      "source_manifest_sha256": "f3bdf6b8d3522e180908d2a17ff505b618c2af52307ac1272a7b93d758204045",
+      "sha256": "176573465f9bebc0045ddd34ac6a20495bac406b360784bc5adfb05e1dc9352a"
+    },
+    {
+      "package": "OB-10b",
+      "scenario": "OB-10b",
+      "file": "LMSTestPackage_OB-10b_modern.zip",
+      "steps": 3,
+      "commands": 15,
+      "source_manifest_sha256": "f8b3a2c20b5879303ca34129954b65529ebc1ed2127205d43e0f28bf22e06fd3",
+      "sha256": "492cfbc798e529ecd78c0d5e7ef3c6923663fb235f0b895f41369fdeb0fcbdd6"
+    },
+    {
+      "package": "OB-10c",
+      "scenario": "OB-10c",
+      "file": "LMSTestPackage_OB-10c_modern.zip",
+      "steps": 3,
+      "commands": 14,
+      "source_manifest_sha256": "16a39dfd48ab60059dbb9fcd1b789813406b24681e9983722fec8fd5b2c01970",
+      "sha256": "23eb386f76473a71a8a24cc8984e3a629bd3a3c101a406b81e1f8160b04db196"
+    },
+    {
+      "package": "OB-10d",
+      "scenario": "OB-10d",
+      "file": "LMSTestPackage_OB-10d_modern.zip",
+      "steps": 3,
+      "commands": 19,
+      "source_manifest_sha256": "07f1d41275fb40fd39b160d15e716df983322fd2eeb47231f1f89ae669da089f",
+      "sha256": "06f39ec58af4020a7e8480f3dcc2b74a5737ca4639f3a11094fd4b5dff18d311"
+    },
+    {
+      "package": "OB-11a",
+      "scenario": "OB-11a",
+      "file": "LMSTestPackage_OB-11a_modern.zip",
+      "steps": 3,
+      "commands": 22,
+      "source_manifest_sha256": "144ed80a42332471566abeab6a993a142ef3aded521415558b76c32d45b50342",
+      "sha256": "65b4eec3d99b0cc8fe21ec9148a3b2a0969bf3558abf101c8d63d098372fdbe9"
+    },
+    {
+      "package": "OB-11b",
+      "scenario": "OB-11b",
+      "file": "LMSTestPackage_OB-11b_modern.zip",
+      "steps": 3,
+      "commands": 16,
+      "source_manifest_sha256": "4b2ddb8d6010f970930443d3933c4174a5f45113fdf29fd567d4a91dffb10d19",
+      "sha256": "342f0c87a8aa06cb3d0600332cce29c90af30a6d3def979560675eeda17a0ff4"
+    },
+    {
+      "package": "OB-12a",
+      "scenario": "OB-12a",
+      "file": "LMSTestPackage_OB-12a_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "36d10107a0c800a4e331e0d3a3e197a2cec5ffa072d2935be4f37a3b9078eced",
+      "sha256": "6b10c005f01e71d07a67df3259d7dd129ac452a9203c5222974d70cdb5c1d34b"
+    },
+    {
+      "package": "OB-12b",
+      "scenario": "OB-12b",
+      "file": "LMSTestPackage_OB-12b_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "cb0ee71cdd14a4bae6248cc469ff15393a1f237a4745bc1962e3ad69ce9ff27c",
+      "sha256": "2ac8991ee61846e5c0000349d2fca009969f4472ca857fa8f3c29bd12f3c029c"
+    },
+    {
+      "package": "OB-12c",
+      "scenario": "OB-12c",
+      "file": "LMSTestPackage_OB-12c_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "f260fb15b6a6c979eb415278ee773798262dbbec9a7b0b5ef407c0496700ad6a",
+      "sha256": "da5a2a7f64b1165adaf15cf35cca4dd76792f3a30f4f215ed7037264c48046f1"
+    },
+    {
+      "package": "OB-13a",
+      "scenario": "OB-13a",
+      "file": "LMSTestPackage_OB-13a_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "8859a11af15e61fc9c3c401eaa4332a3af3dd957dcda7e30d3e3f26e6a3638dc",
+      "sha256": "20d92d8d49249311d0862e6b8b710418d1d98113db2c4413dbbe14cf908d57e4"
+    },
+    {
+      "package": "OB-13b",
+      "scenario": "OB-13b",
+      "file": "LMSTestPackage_OB-13b_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "806b30c2fe06d3f32bdca5e3bc9cc40bf4a6d67ea1f92e60b465ed34e51869a1",
+      "sha256": "07770a3078ebf6a9a9351802916b2c1132225bc4db81fd4baaac8b53a56fe0a3"
+    },
+    {
+      "package": "OB-13c",
+      "scenario": "OB-13c",
+      "file": "LMSTestPackage_OB-13c_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "f55c5ffcc7df200e473e2608ef9fcf1eedb6ba558e0e29a983f461434d8cc301",
+      "sha256": "513e3d2c5dd585957c185fece78db949ee406096d053c5cca8c827829322ec79"
+    },
+    {
+      "package": "OB-14a",
+      "scenario": "OB-14a",
+      "file": "LMSTestPackage_OB-14a_modern.zip",
+      "steps": 7,
+      "commands": 113,
+      "source_manifest_sha256": "357f5b581648a57d4117d4619e2f6cf05c0dc82f4551d84670d63963a0823d50",
+      "sha256": "82a3bfe8dc2b3ac753dd7021cd5d4d0c6aa3c4d74567ad48d3019f8d415a7e91"
+    },
+    {
+      "package": "OB-14b",
+      "scenario": "OB-14b",
+      "file": "LMSTestPackage_OB-14b_modern.zip",
+      "steps": 7,
+      "commands": 148,
+      "source_manifest_sha256": "f36d208d52b1ce829531fc56b1342a3245c304077259c984de2ce91695ef6eb8",
+      "sha256": "7419f5103275662d754d34fee894d205649893d8f8d34d10a9afe1a5fdf68b22"
+    },
+    {
+      "package": "OB-15",
+      "scenario": "OB-15",
+      "file": "LMSTestPackage_OB-15_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "428a9be7135c9eb86925219702d037e8e4d8943dc7500bfe2e1b6d0065b42cbb",
+      "sha256": "59d5b744d88065c90c39ecb90727cb9730bcb0ee9662185ea898c955542d6655"
+    },
+    {
+      "package": "OB-16a",
+      "scenario": "OB-16a",
+      "file": "LMSTestPackage_OB-16a_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "dc30a36878b2122802277606dacdf4124cfd41189243945993de12d51173366b",
+      "sha256": "b69d32c0db88ba315f1976a976fe2b6ec00d08d9b9d4242725ffeea695ad3436"
+    },
+    {
+      "package": "OB-16b",
+      "scenario": "OB-16b",
+      "file": "LMSTestPackage_OB-16b_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "b0245aaa556e681181e2e151a4dbfc2d02490ed4d4787c523b36507de82d8525",
+      "sha256": "9612f787e5e5e45af22f814353a4ab904fcd6d67302faed677c33d16f5d6a30b"
+    },
+    {
+      "package": "OB-16c",
+      "scenario": "OB-16c",
+      "file": "LMSTestPackage_OB-16c_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "b2b733d94355dac38761b0a1c73cfaba594f8ad5f19f75f16aeb717528f8b8e4",
+      "sha256": "291ea22be0778f38cd64ea39f4f487a52bc848764a3f0b6c2febd30705aac221"
+    },
+    {
+      "package": "OB-16d",
+      "scenario": "OB-16d",
+      "file": "LMSTestPackage_OB-16d_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "2101cd30c1c366509c8a50bfa620c8e5fbd3f6ca751dc576a1e9502bb48b8837",
+      "sha256": "b0aaceaafd9fc7d6a71c5caf5d94edb3e3fc493981b3dc2c57b5eb9d7b4e8c01"
+    },
+    {
+      "package": "OB-17a",
+      "scenario": "OB-17a",
+      "file": "LMSTestPackage_OB-17a_modern.zip",
+      "steps": 3,
+      "commands": 51,
+      "source_manifest_sha256": "35c46cb0b1e49dff893bfdc6b77dffd527987aed966c06535f9349cd85b6f43c",
+      "sha256": "42e9b14e3b435957d8e21e87144639c8d9a538232b341eac5676dc487b093fd7"
+    },
+    {
+      "package": "OB-17b",
+      "scenario": "OB-17b",
+      "file": "LMSTestPackage_OB-17b_modern.zip",
+      "steps": 4,
+      "commands": 75,
+      "source_manifest_sha256": "29f4072a7ebab6df94fca96328eaa8092b04bab855206d3726db8435078067d5",
+      "sha256": "b33102af50700fe98ba4feebe3a8a6817f83c38426fb39d9e4164c5799a1f92f"
+    },
+    {
+      "package": "RU-01aa",
+      "scenario": "RU-01aa",
+      "file": "LMSTestPackage_RU-01aa_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "e8478de07be02d85b553db970912c0439bb601a3cfcbb2733d863192d0b2e33a",
+      "sha256": "598549d4672d4b2ef71a7558013544fb901c2925f160e71b0750ebd3bf817790"
+    },
+    {
+      "package": "RU-01ab",
+      "scenario": "RU-01ab",
+      "file": "LMSTestPackage_RU-01ab_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "8825e1de961644170ebc90bc9d5d0f4e5cb3a709feaec8e9c4a447985272c963",
+      "sha256": "888ca8989947caa05a461b2e0a9b2e98ab7747a881857ae8b81aadc346755db5"
+    },
+    {
+      "package": "RU-01ba",
+      "scenario": "RU-01ba",
+      "file": "LMSTestPackage_RU-01ba_modern.zip",
+      "steps": 5,
+      "commands": 13,
+      "source_manifest_sha256": "c6ac25e130f63138e7490327507fe667874c12066ba4839f9460e4bcfdb4d1a0",
+      "sha256": "adac00927a68f14175dec4f9b04e8e976223ca875be6fb91365267f115d865c4"
+    },
+    {
+      "package": "RU-01bb",
+      "scenario": "RU-01bb",
+      "file": "LMSTestPackage_RU-01bb_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "0b4aea195593bb574e18db2d6617f65737c668a3de3f8431ae1b90b815826092",
+      "sha256": "22836a7fddd422394a9735944b531f2a85e8f2c22649cfaedceca90c02778cc6"
+    },
+    {
+      "package": "RU-02a",
+      "scenario": "RU-02a",
+      "file": "LMSTestPackage_RU-02a_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "f904b7037daec5355dd378f8f940861f0d2ee26a93d1bda618df49f5c3025b96",
+      "sha256": "6d900e10c31c72cbbefd06fdeaef673ddb1c2f8a43da0fca06af513fec228b83"
+    },
+    {
+      "package": "RU-02b",
+      "scenario": "RU-02b",
+      "file": "LMSTestPackage_RU-02b_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "0e84966931aa4146040749a5ac4e6135e1132587b2cb94a4abb72ba04ba5327e",
+      "sha256": "3998d90147ab0c54d04cd9271ee90af12de7abcf84b5df3bf9983ea0ca505a3e"
+    },
+    {
+      "package": "RU-03a",
+      "scenario": "RU-03a",
+      "file": "LMSTestPackage_RU-03a_modern.zip",
+      "steps": 5,
+      "commands": 16,
+      "source_manifest_sha256": "f35310692d21b0986eb3a336abbea620e2d0dccd701ef55223b02b229f0698db",
+      "sha256": "55a929f1d35a5f2af05b716c5ae08a3f52c78c1fef9a77a4546de83b91a6a3e8"
+    },
+    {
+      "package": "RU-03b",
+      "scenario": "RU-03b",
+      "file": "LMSTestPackage_RU-03b_modern.zip",
+      "steps": 4,
+      "commands": 12,
+      "source_manifest_sha256": "92563b21523758ffa51ec83e6ec2a425f05df771c42676844ac5bb79a8eb3479",
+      "sha256": "ede7b6a91fee5b2e84f19cb6dd667228c029da45d19e83812e20be7f94c76e63"
+    },
+    {
+      "package": "RU-04aa",
+      "scenario": "RU-04aa",
+      "file": "LMSTestPackage_RU-04aa_modern.zip",
+      "steps": 5,
+      "commands": 19,
+      "source_manifest_sha256": "0fe8315715300e8bde6ad8cef979d2d582a07dbc717a8e757bfeeee68745f3a0",
+      "sha256": "3e2e8f45353a034493fbe631b0bfc4adecfce7a826f16d89b16cfc8f20dd7de5"
+    },
+    {
+      "package": "RU-04ab",
+      "scenario": "RU-04ab",
+      "file": "LMSTestPackage_RU-04ab_modern.zip",
+      "steps": 5,
+      "commands": 19,
+      "source_manifest_sha256": "44b5d7f493cf65d12b45b105b4b8715ea63258cc6228acb08d1cc11e637dc450",
+      "sha256": "4c94472ec81bcedf0eb453626bcb2e65162869a6d9a19b8e7e7a785d95103138"
+    },
+    {
+      "package": "RU-04ba",
+      "scenario": "RU-04ba",
+      "file": "LMSTestPackage_RU-04ba_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "d8626e38a964ef1f3fa388c83c92e446274dfa263db073649de3b57e3888df66",
+      "sha256": "83c70cd7bab9a9f98be7d831fdd0b8e9b42bcef5450c4ca2c65161626d86ce5d"
+    },
+    {
+      "package": "RU-04bb",
+      "scenario": "RU-04bb",
+      "file": "LMSTestPackage_RU-04bb_modern.zip",
+      "steps": 4,
+      "commands": 15,
+      "source_manifest_sha256": "4528ec3c7d4a4c24ac3d41a1eafad4362e3a1f473e04a636c66b9662a4c638cf",
+      "sha256": "97d6a2f408f4def1621b4637e9acd35dd7043c1503ddff729df7181729e3ad65"
+    },
+    {
+      "package": "RU-04bc",
+      "scenario": "RU-04bc",
+      "file": "LMSTestPackage_RU-04bc_modern.zip",
+      "steps": 8,
+      "commands": 20,
+      "source_manifest_sha256": "f579d3ce5873627fb9b9505a9f90dbd66e73cd6ce125b7aff62b074ed12b4ade",
+      "sha256": "ce6c52699cace06def6f740a0d770f31c51b6502de9d811b299ed928996a9c38"
+    },
+    {
+      "package": "RU-04bd",
+      "scenario": "RU-04bd",
+      "file": "LMSTestPackage_RU-04bd_modern.zip",
+      "steps": 9,
+      "commands": 32,
+      "source_manifest_sha256": "e0d68d51757c0483e4b5466bdf718dc62b57e2402b6c49137ce60b9331f5d84e",
+      "sha256": "6f6ced13f34f3435feae89b9b88a653896795d56c5ebfeeecb87d9e71f3b83ce"
+    },
+    {
+      "package": "RU-05a",
+      "scenario": "RU-05a",
+      "file": "LMSTestPackage_RU-05a_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "784f82de1beaede541b0c6094ba1ecba3a9157fa54c398c98bbb43156c90cba5",
+      "sha256": "7d2380933f22d65f616a5b954d664fe34d004404b64b3dff80f75b62b0c76c4b"
+    },
+    {
+      "package": "RU-05b",
+      "scenario": "RU-05b",
+      "file": "LMSTestPackage_RU-05b_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "d3a2e49adedf8b957112963ecfa56145bf4725d3b41176ef345421d58d7337b2",
+      "sha256": "1b6567fe3e18983c6f0214121a5ff14b625571a1569edbf5e7aebdd3375b729c"
+    },
+    {
+      "package": "RU-06a",
+      "scenario": "RU-06a",
+      "file": "LMSTestPackage_RU-06a_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "bdc331dea5756738f46cd0f585119658aad9e3b2b2403892ce9a9c8556fc2724",
+      "sha256": "c321895934d7d016f4edfe5ea6ca5b08d2e7bda46ce70b3d48eaea2f81a3943c"
+    },
+    {
+      "package": "RU-06b",
+      "scenario": "RU-06b",
+      "file": "LMSTestPackage_RU-06b_modern.zip",
+      "steps": 6,
+      "commands": 21,
+      "source_manifest_sha256": "f7088eed1a83df4aaa8f7fe3baf9f56b5c9eadfb4959ff7e2211696a39ef1c87",
+      "sha256": "cefac0b58a00a1bce63aedf4242902f45d99edb74debaa680462822b54a83f0e"
+    },
+    {
+      "package": "RU-07a",
+      "scenario": "RU-07a",
+      "file": "LMSTestPackage_RU-07a_modern.zip",
+      "steps": 6,
+      "commands": 21,
+      "source_manifest_sha256": "1fe765aa89bf64646d587e89808ac0523efb5ca536c974545dcea6c3ca7a0c65",
+      "sha256": "17ea7c366f9c1094070daa08bab8bc9dcf864361c0802a2afb4643a03c467a32"
+    },
+    {
+      "package": "RU-07b",
+      "scenario": "RU-07b",
+      "file": "LMSTestPackage_RU-07b_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "ceab5a6f67791cdf348900a8d63e83dd43b00412fb7a4bf16b4cd114df7c23a7",
+      "sha256": "71b525c73b9ad5b67f978261860e2b7988e8ff965c126abf60e88fae0f966aff"
+    },
+    {
+      "package": "RU-07c",
+      "scenario": "RU-07c",
+      "file": "LMSTestPackage_RU-07c_modern.zip",
+      "steps": 9,
+      "commands": 32,
+      "source_manifest_sha256": "a3c6ddb153e9e8badb143491662790818bfe51ad924e697ddb7318ff07f9341d",
+      "sha256": "9cf58e0a0c4ee67177e65310391d0514e9e3a8b35f42e5eea7694329e40177f7"
+    },
+    {
+      "package": "RU-08a",
+      "scenario": "RU-08a",
+      "file": "LMSTestPackage_RU-08a_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "838eb7a69ef07506ea26a619ed80dc7ddc3e2eca0e7e228f4bc65d38e667a972",
+      "sha256": "a538c885f9f7a223500e7c48001897e73f1ef843c09ad2fb6b91954188c02896"
+    },
+    {
+      "package": "RU-08b",
+      "scenario": "RU-08b",
+      "file": "LMSTestPackage_RU-08b_modern.zip",
+      "steps": 5,
+      "commands": 14,
+      "source_manifest_sha256": "202927a65bf0d7004093319c7dca265f5c53c5df5419dad6af492bb7d2322c8d",
+      "sha256": "6a5d38ddabfd4adf19d42d9bd1464ec548804469f31d8b23f2181897ffe118cf"
+    },
+    {
+      "package": "RU-09",
+      "scenario": "RU-09",
+      "file": "LMSTestPackage_RU-09_modern.zip",
+      "steps": 12,
+      "commands": 43,
+      "source_manifest_sha256": "834c035521c52ca42c40fc78dccef599a48ba6209987fefd604aad507686a7b5",
+      "sha256": "b72b29c94398a58252f598ef684b87edd165be7bbcea50d22c05702793a4ff2c"
+    },
+    {
+      "package": "RU-10",
+      "scenario": "RU-10",
+      "file": "LMSTestPackage_RU-10_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "d9ddf964f3972fc9486e0d4971b680195c4685aa72c53f9ed6ac1b240df5265f",
+      "sha256": "8cf6a56de96d4da3804a77e14c28ae4a15f06058f2653e6af8f78f3d8f783a3c"
+    },
+    {
+      "package": "RU-11",
+      "scenario": "RU-11",
+      "file": "LMSTestPackage_RU-11_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "3a54893c2bb2960c7ceb88e0fde2d96007d214f99ac30dffe4a312b2482aca28",
+      "sha256": "08765b8c0adee282ed30b7c6b666b52494599a73bb1553d0a55275db0cd687e2"
+    },
+    {
+      "package": "RU-12a",
+      "scenario": "RU-12a",
+      "file": "LMSTestPackage_RU-12a_modern.zip",
+      "steps": 5,
+      "commands": 16,
+      "source_manifest_sha256": "74a37ab5326197218033a37d001373c4d83ab9c7bd8fe70b3520ef107b37d6a4",
+      "sha256": "fb5476db16769363135fb5456f08f0216d58ead96a30b26bc85250e76a50cef5"
+    },
+    {
+      "package": "RU-12b",
+      "scenario": "RU-12b",
+      "file": "LMSTestPackage_RU-12b_modern.zip",
+      "steps": 5,
+      "commands": 16,
+      "source_manifest_sha256": "af2cf714b59be775846a1eb11f184f84b4272fefb4d8bd0944b4050c381db0dd",
+      "sha256": "f60a3fa14fe59336625c134fc4118733ec54bcc8f6363f9cc192899b8e436a7e"
+    },
+    {
+      "package": "RU-13a",
+      "scenario": "RU-13a",
+      "file": "LMSTestPackage_RU-13a_modern.zip",
+      "steps": 3,
+      "commands": 14,
+      "source_manifest_sha256": "2418b071d1653637d401d07474c05ac6ec8239047836e07420ef27f83e7afdef",
+      "sha256": "ee81a66c1ca4c89e7f2683cd13e0216ea130016de39bc2dcc778f6f3ab22d337"
+    },
+    {
+      "package": "RU-13b",
+      "scenario": "RU-13b",
+      "file": "LMSTestPackage_RU-13b_modern.zip",
+      "steps": 3,
+      "commands": 16,
+      "source_manifest_sha256": "41677fb19ba863439ceb43615699e7546ed691d993485a679c8e6f187f1fd0d0",
+      "sha256": "afba90b2bb8148cc5a551d641f23070d0bbe5ec0a95f4ca5c1ae215b4601a229"
+    },
+    {
+      "package": "RU-13c",
+      "scenario": "RU-13c",
+      "file": "LMSTestPackage_RU-13c_modern.zip",
+      "steps": 3,
+      "commands": 14,
+      "source_manifest_sha256": "a1ef2498e4731030bcd4fd969c497b0269d190ce10b95b99232b7ab02d70a61f",
+      "sha256": "c59679ca99e2f90340bb5ca6ec13f6eafb1cd69c8879e7e678d3c751cecfe130"
+    },
+    {
+      "package": "RU-13d",
+      "scenario": "RU-13d",
+      "file": "LMSTestPackage_RU-13d_modern.zip",
+      "steps": 3,
+      "commands": 12,
+      "source_manifest_sha256": "45e1add970aac4fdaf240ece033ec033ac9ea1bdcd1e545b2b30ef97d321bc6d",
+      "sha256": "0fffc5a1fdd5be6329bce8b73409ba68475ecae1ff14786b698d81bcf98517cb"
+    },
+    {
+      "package": "RU-13e",
+      "scenario": "RU-13e",
+      "file": "LMSTestPackage_RU-13e_modern.zip",
+      "steps": 3,
+      "commands": 16,
+      "source_manifest_sha256": "0431072a3ea6afc2bfa407f0c6e22d1619c826d58670e6afac879fb0b6c16175",
+      "sha256": "e264c90476acc5abd806fc948c29595ac43b50da32475a5c97a90eb01a252ed5"
+    },
+    {
+      "package": "RU-14a",
+      "scenario": "RU-14a",
+      "file": "LMSTestPackage_RU-14a_modern.zip",
+      "steps": 3,
+      "commands": 10,
+      "source_manifest_sha256": "5aa749a0c588ce66030f7d8ad81a9fce1ca86b28ee66fd87e4f73362d241689f",
+      "sha256": "ae93467828a33015da5ccdfa55d8381e8e1a0a28c3518f4780dfd0c4a23023b6"
+    },
+    {
+      "package": "RU-14b",
+      "scenario": "RU-14b",
+      "file": "LMSTestPackage_RU-14b_modern.zip",
+      "steps": 3,
+      "commands": 11,
+      "source_manifest_sha256": "473549f9b739d794def4d63b19951b8a77f64f8dd1c1d28fd9dc12ed35b1aaf1",
+      "sha256": "f6db1bfacc8e4017684a6972d0262b8a47e2a0b973338d02f01393df917dc800"
+    },
+    {
+      "package": "RU-14c",
+      "scenario": "RU-14c",
+      "file": "LMSTestPackage_RU-14c_modern.zip",
+      "steps": 3,
+      "commands": 9,
+      "source_manifest_sha256": "e9dc3f27c0032ebb457ecfeab8199753c0a6087a44eac85a49a71d467c78a5af",
+      "sha256": "8214d60fd4780fed1deff9d106553ddb51c7fda6d5fc4e4bc59cbb6013849b48"
+    },
+    {
+      "package": "RU-14d",
+      "scenario": "RU-14d",
+      "file": "LMSTestPackage_RU-14d_modern.zip",
+      "steps": 3,
+      "commands": 9,
+      "source_manifest_sha256": "e9657b50bef8a2c1bb1b76ff6c670456f9d152c6170271a0cbf9e3868a618e09",
+      "sha256": "cf4188bf13c930da926eeaf0711fa97c5844e9643d6210c4c8a6de9c8925b0ce"
+    },
+    {
+      "package": "RU-15a",
+      "scenario": "RU-15a",
+      "file": "LMSTestPackage_RU-15a_modern.zip",
+      "steps": 6,
+      "commands": 21,
+      "source_manifest_sha256": "0b7a2e66f6a005413338c5a146ebeb56ba80c3de5c5ec60accc50d894fc72505",
+      "sha256": "2deef383e0d79d2dc79ae3ce5bcfba25ceceb53596d50e754fa57dcbe669cfdb"
+    },
+    {
+      "package": "RU-15b",
+      "scenario": "RU-15b",
+      "file": "LMSTestPackage_RU-15b_modern.zip",
+      "steps": 5,
+      "commands": 16,
+      "source_manifest_sha256": "f388b05f909559763fc24f5d504be8ae57cee4e50a75ef47a0436206eaa609d4",
+      "sha256": "0ea3c2655d91eacea8283382ce757a447c261e14cda27ffc26d9dd1d82e2b600"
+    },
+    {
+      "package": "RU-15c",
+      "scenario": "RU-15c",
+      "file": "LMSTestPackage_RU-15c_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "94efb837288bd2c2a3b7f462dcbb78eb613db24eff35f9cfa471edda7a3339f5",
+      "sha256": "d21545dfc1dac2bb5fa9b33b73b9534af50c263ebb5a6bc4dcd52e02c663c8d2"
+    },
+    {
+      "package": "RU-15d",
+      "scenario": "RU-15d",
+      "file": "LMSTestPackage_RU-15d_modern.zip",
+      "steps": 5,
+      "commands": 17,
+      "source_manifest_sha256": "3c46cb07a4cdcc1dd8855e7fa8067284ce0ea596d47edb914b7649f0cc358b7c",
+      "sha256": "9f4e2c9cbc94d137132c10101a5812bde0b4d5f7b30cd41bc9af0317715c1e51"
+    },
+    {
+      "package": "RU-16",
+      "scenario": "RU-16",
+      "file": "LMSTestPackage_RU-16_modern.zip",
+      "steps": 2,
+      "commands": 12,
+      "source_manifest_sha256": "303a908ef7f3d474ff420cf103a690f56a0ac72a9c635edfe954a663325122c4",
+      "sha256": "f327360d7d946a18cba577130489825056bf58b154c525406e8ead21be00f4f7"
+    },
+    {
+      "package": "RU-17a",
+      "scenario": "RU-17a",
+      "file": "LMSTestPackage_RU-17a_modern.zip",
+      "steps": 6,
+      "commands": 18,
+      "source_manifest_sha256": "2208fb62d0b56dfc287c30414f5797a72db4346e9aaa5dfb510e0f05a3cc3b5c",
+      "sha256": "217cfb38573c9ec2f816f8639d11d6a0637e3d52f4e9a517b81d789bc7469ba6"
+    },
+    {
+      "package": "RU-17b",
+      "scenario": "RU-17b",
+      "file": "LMSTestPackage_RU-17b_modern.zip",
+      "steps": 6,
+      "commands": 20,
+      "source_manifest_sha256": "e34249e1691197163f31cb2f89b9214464126d0f4bb9deb033c5cea5e9ebf2a4",
+      "sha256": "3d3b0b3707d042dfc2a5b73256de09a0849415714ea88bcc8127bf6c5af9f8ba"
+    },
+    {
+      "package": "RU-18a",
+      "scenario": "RU-18a",
+      "file": "LMSTestPackage_RU-18a_modern.zip",
+      "steps": 5,
+      "commands": 14,
+      "source_manifest_sha256": "7d27556f7d86ea8cf419de3425331e0846701a75696c42823849f32244be9050",
+      "sha256": "fc5320c6f84ae66a4607bc49db839a40ddb27b49f1838fd59246dbc583ade195"
+    },
+    {
+      "package": "RU-18b",
+      "scenario": "RU-18b",
+      "file": "LMSTestPackage_RU-18b_modern.zip",
+      "steps": 6,
+      "commands": 27,
+      "source_manifest_sha256": "75b80858c173fa7144fdd60a842479f885eada4778fa98ab4dbcf291558e5bb4",
+      "sha256": "0c0044a981ae557bddb8b58a880f1a3f9b331b34f629695008d39d8315f703e1"
+    },
+    {
+      "package": "RU-19a",
+      "scenario": "RU-19a",
+      "file": "LMSTestPackage_RU-19a_modern.zip",
+      "steps": 4,
+      "commands": 12,
+      "source_manifest_sha256": "122e897a2da938c8cbc0768582bfdebcf053429abe88904110a20b1a756241fc",
+      "sha256": "87a1caf7a762e05c1e8057d67e07ef0926a84c382637bdb503da643ddb8ab1f4"
+    },
+    {
+      "package": "RU-19b",
+      "scenario": "RU-19b",
+      "file": "LMSTestPackage_RU-19b_modern.zip",
+      "steps": 4,
+      "commands": 12,
+      "source_manifest_sha256": "15c4cbb2e58624b87da1a20c58b687279832a765198d2c825f12948baa9b2b6f",
+      "sha256": "297648bbcce39c79e34bd9f9d642b7ef0255c2bdc72fee1f8e98afde33db0d34"
+    },
+    {
+      "package": "SX-02",
+      "scenario": "SX-02",
+      "file": "LMSTestPackage_SX-02_modern.zip",
+      "steps": 5,
+      "commands": 20,
+      "source_manifest_sha256": "363ef52045b217686724f784e0b8c917da2bc3aafe801f3e8571044318e12aba",
+      "sha256": "f2dd028a252d89343b108b1e105ded0ff27952c9a6250a678cfd14c8ebbb26e2"
+    },
+    {
+      "package": "SX-03",
+      "scenario": "SX-03",
+      "file": "LMSTestPackage_SX-03_modern.zip",
+      "steps": 5,
+      "commands": 23,
+      "source_manifest_sha256": "13909df6a3bd49b4b13f066c5af905d908c2c84ef2ee6669dfc16c3c73fd2613",
+      "sha256": "7b5776ee9d7ee26ef0fe2d1a5998a1143b4941f09834a9ad34e41aaacf1b7e7b"
+    },
+    {
+      "package": "SX-04a",
+      "scenario": "SX-04a",
+      "file": "LMSTestPackage_SX-04a_modern.zip",
+      "steps": 2,
+      "commands": 5,
+      "source_manifest_sha256": "31e2004f280b2f114f80de13224db5f217228a9c1603ad9080a7a44e823c39c8",
+      "sha256": "a69c7f7c7835f1ec7c3d34456ed9658515224c902a4f14fb6b11f30ef9d5ea56"
+    },
+    {
+      "package": "SX-04b",
+      "scenario": "SX-04b",
+      "file": "LMSTestPackage_SX-04b_modern.zip",
+      "steps": 2,
+      "commands": 5,
+      "source_manifest_sha256": "70b05607eaff00e990be9a558238745633a420585603a1bc9aa97b8a5a662648",
+      "sha256": "2eea8a85699db457dd9c1b4575e4090bf3a5e75caceba494a8b2d1e8d5e93520"
+    },
+    {
+      "package": "SX-05",
+      "scenario": "SX-05",
+      "file": "LMSTestPackage_SX-05_modern.zip",
+      "steps": 17,
+      "commands": 126,
+      "source_manifest_sha256": "faabcfc935e2bded854eedca82dd313cfb916108d9b95bead0abf507b14f0549",
+      "sha256": "bff353fd1df9051348fe81799626869bcbc9ad11e90664e69af3f52936ea7ebc"
+    },
+    {
+      "package": "SX-06",
+      "scenario": "SX-06",
+      "file": "LMSTestPackage_SX-06_modern.zip",
+      "steps": 4,
+      "commands": 13,
+      "source_manifest_sha256": "6dd4c924e61e835da4cfd05baae3b5f72b7eb2a77fe8fb91fd1dbf897940c1a0",
+      "sha256": "d7140a4d5021b77cdb5f14e9e45ca55ede943f952314c1767ba0bc028c11fada"
+    },
+    {
+      "package": "SX-07a",
+      "scenario": "SX-07a",
+      "file": "LMSTestPackage_SX-07a_modern.zip",
+      "steps": 5,
+      "commands": 15,
+      "source_manifest_sha256": "259fcbeb3d1293bee7be55231db93b59596fbc9d84cbf235c6496bde4cdbc72d",
+      "sha256": "355a4153c3a37714d27e4de4527e15e4c1d3227d49066dbcda87545d40a09144"
+    },
+    {
+      "package": "SX-07b",
+      "scenario": "SX-07b",
+      "file": "LMSTestPackage_SX-07b_modern.zip",
+      "steps": 2,
+      "commands": 6,
+      "source_manifest_sha256": "7b921f4f1e276afe7b33cd0ac82d824dfce73e925e5d98b5459fcd301bf58372",
+      "sha256": "861cf0b244073146fe59aaf0b830c150f6f9336581949ce35eb1209e240be4de"
+    },
+    {
+      "package": "SX-07c",
+      "scenario": "SX-07c",
+      "file": "LMSTestPackage_SX-07c_modern.zip",
+      "steps": 3,
+      "commands": 8,
+      "source_manifest_sha256": "77ce056c3506cdb8a4ed7fbeaec247090bec6ccc2607a0457b8a7af7fa90e64e",
+      "sha256": "8b57967a3d0156f41bb4a20d9c3a7b337243dfe5c532024d229d6efc678500ec"
+    },
+    {
+      "package": "SX-07d",
+      "scenario": "SX-07d",
+      "file": "LMSTestPackage_SX-07d_modern.zip",
+      "steps": 8,
+      "commands": 26,
+      "source_manifest_sha256": "4433970862e83f22d465fdab1dc96ac26425a61f16c400861bdb3088c81ac0a1",
+      "sha256": "abd1251752aa6c3b813a7b013fb3c0592cbdcf233644de8860b4f138130ff3cb"
+    },
+    {
+      "package": "SX-07e",
+      "scenario": "SX-07e",
+      "file": "LMSTestPackage_SX-07e_modern.zip",
+      "steps": 8,
+      "commands": 26,
+      "source_manifest_sha256": "a4921f8f22c251f6b0081674cf17f6c825468c0a2176fdbc88dc818e50583435",
+      "sha256": "7156b5bea7aa1409d52b00392f1880a16c99798d8d06bbeb6da3926f187782de"
+    },
+    {
+      "package": "SX-08a",
+      "scenario": "SX-08a",
+      "file": "LMSTestPackage_SX-08a_modern.zip",
+      "steps": 1,
+      "commands": 2,
+      "source_manifest_sha256": "1d7b226012f23d39247823c859a95f89367324a31becb5701adb3c82b2db9d80",
+      "sha256": "924276701eb16aa799861852943e96a2f35e5cff852a84ec6cba511ab270d025"
+    },
+    {
+      "package": "SX-08b",
+      "scenario": "SX-08b",
+      "file": "LMSTestPackage_SX-08b_modern.zip",
+      "steps": 1,
+      "commands": 2,
+      "source_manifest_sha256": "98a5f9b2f887b2303a2aca0f253ae602c183086e4180e06a55f0a05207702c40",
+      "sha256": "401d3af1f8afa362f72dc5007b1c0c94ab3a92bae3bc922ffddba4cd53340cef"
+    },
+    {
+      "package": "SX-09",
+      "scenario": "SX-09",
+      "file": "LMSTestPackage_SX-09_modern.zip",
+      "steps": 2,
+      "commands": 4,
+      "source_manifest_sha256": "51e0eb98f2eb54cd14b2bb1e477384405b1094c199121aa57238ff8e7e39c1e5",
+      "sha256": "8f2eca1078e3703bf2022c76c573c169259842621d57be14faacb8035a0ad171"
+    },
+    {
+      "package": "SX-10a",
+      "scenario": "SX-10a",
+      "file": "LMSTestPackage_SX-10a_modern.zip",
+      "steps": 1,
+      "commands": 5,
+      "source_manifest_sha256": "a2e982b3ea60cf93320295506d599d9329f41a66262804ecedbd165e51eb84d9",
+      "sha256": "8be419175ddbacec87f8ee9f739530fd580c37ffb52c5b1d87e10b2562716cdc"
+    },
+    {
+      "package": "SX-10b",
+      "scenario": "SX-10b",
+      "file": "LMSTestPackage_SX-10b_modern.zip",
+      "steps": 1,
+      "commands": 4,
+      "source_manifest_sha256": "884b8855942e460fd7a13f97fc1011fbc069236048c8755970524173cb2a89c2",
+      "sha256": "c8e76551de76e398c5751de379a494021ebe6521acbbc728923417d5567c03d2"
+    },
+    {
+      "package": "SX-10c",
+      "scenario": "SX-10c",
+      "file": "LMSTestPackage_SX-10c_modern.zip",
+      "steps": 1,
+      "commands": 4,
+      "source_manifest_sha256": "3e2bbc653e7c8d3969f51a9520e930b7322cb8ba743ed1b25f632ef137bf5c7a",
+      "sha256": "dd5011ea2d8573e98dad46d54a08994009e7421321b6876aaa456198e901f3b5"
+    },
+    {
+      "package": "SX-10d",
+      "scenario": "SX-10d",
+      "file": "LMSTestPackage_SX-10d_modern.zip",
+      "steps": 1,
+      "commands": 5,
+      "source_manifest_sha256": "ea4d3f98ef7a50f33c8d31ad952eaed9e16262f9854609008eaa2d7a9afeee8c",
+      "sha256": "176b34d998d518c6860e0df02a83fd82dc7925aee2bc650133b1c2859bcf992d"
+    },
+    {
+      "package": "SX-11a",
+      "scenario": "SX-11a",
+      "file": "LMSTestPackage_SX-11a_modern.zip",
+      "steps": 4,
+      "commands": 51,
+      "source_manifest_sha256": "474fd56abd33c5bfdbdeb9b2ca354ee041b667d1e0a2d3dc3627dbaeced74128",
+      "sha256": "9cd7d75d73ccf01d81a7f78c39c37ce70a842a413b4f51b741df5eff7e87526f"
+    },
+    {
+      "package": "SX-11b",
+      "scenario": "SX-11b",
+      "file": "LMSTestPackage_SX-11b_modern.zip",
+      "steps": 4,
+      "commands": 49,
+      "source_manifest_sha256": "80e9bc513812a13668fda9a0f26289fcaa9196030e68e139433cf115ea0c0d5f",
+      "sha256": "0236986191c5a809b8d29fb29a28a2e43019626390b9bfb2074d63de13877927"
+    },
+    {
+      "package": "SX-11c",
+      "scenario": "SX-11c",
+      "file": "LMSTestPackage_SX-11c_modern.zip",
+      "steps": 1,
+      "commands": 8,
+      "source_manifest_sha256": "7020a6b9e11e757e03f6d82474dffa1c811273d0572b62a2cbd41b5f1605204c",
+      "sha256": "e75bff98b1d8e5f35377483dcaa3baf566b93fcb55339ee8cbbba9fd28f2238b"
+    },
+    {
+      "package": "SX-12a",
+      "scenario": "SX-12a",
+      "file": "LMSTestPackage_SX-12a_modern.zip",
+      "steps": 2,
+      "commands": 5,
+      "source_manifest_sha256": "6d4329c6f73e97dc92cdcfd8080907d1d65ce8afd47810eda464eec303051f49",
+      "sha256": "8e3e4217cfc3638df5be0e986b5aaf1a25e82703c2c355b0662d901092fb7b62"
+    },
+    {
+      "package": "SX-12b",
+      "scenario": "SX-12b",
+      "file": "LMSTestPackage_SX-12b_modern.zip",
+      "steps": 3,
+      "commands": 9,
+      "source_manifest_sha256": "bf2e481e7e800f87b8990c36194e2be6c4cdfc150c57fb371b4ea121736c98ba",
+      "sha256": "74d6d9e63543a81d1cedb2cb17f66475ee969676e1e210357f84404b1814ce42"
+    },
+    {
+      "package": "SX-12c",
+      "scenario": "SX-12c",
+      "file": "LMSTestPackage_SX-12c_modern.zip",
+      "steps": 4,
+      "commands": 12,
+      "source_manifest_sha256": "2569ebbf30386cc7061a317ddaecc521c5cdb4cc6382c3cc47d3f40174f2505f",
+      "sha256": "7d430336c942ca0d403ed8a1ce0cc670e8699272dbcd1dfe8f6f9839025bc129"
+    },
+    {
+      "package": "T-01a",
+      "scenario": "T-01a",
+      "file": "LMSTestPackage_T-01a_modern.zip",
+      "steps": 11,
+      "commands": 41,
+      "source_manifest_sha256": "f2a607fe50872ea0133e65238500bd00a36a34febe88e0ea762291bf6c6a4dd8",
+      "sha256": "d00c4988b6e060d9d446a3ae242a10b40ac53b3a0adba9cf02c914c7609e9cbf"
+    },
+    {
+      "package": "T-01b",
+      "scenario": "T-01b",
+      "file": "LMSTestPackage_T-01b_modern.zip",
+      "steps": 16,
+      "commands": 60,
+      "source_manifest_sha256": "73913d11e83c051d6ee94b2e5226f0613889447b401426239df7344477e89b83",
+      "sha256": "bf889d8b2512a1e41d58303f817be445f60e48c0ec8e2c0b0c1755cead6487a4"
+    }
+  ]
+}

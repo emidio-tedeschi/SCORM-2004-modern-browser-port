@@ -1,0 +1,44 @@
+Validation of experimental browser port 0.1.0 — 2026-10-29
+Upstream: adlnet/SCORM-2004-4ed-Test-Suite
+Commit: 050f1b4282c914154ab80254e4767ce8c58d0d36
+
+PASS: 4 Python packaging/data tests.
+- Original non-resource XML manifest content preserved in all 189 packages.
+- Every referenced file and dependency in generated packages exists.
+- Java applet objects and JAR references removed from generated launch HTML.
+- Repeated command keys and revisited groups retained in source order.
+
+PASS: 11 Node.js tests.
+- Decode every generated scenario command.
+- Literal punctuation, empty values, navigation targets and interaction types.
+- Error codes, invalid return types, exceptions, missing API methods.
+- Numeric, duration, children and deferred semantic comparisons.
+- Learner ID, original diagnostic rules, dynamic objective IDs and COI.
+- API discovery across parent/opener with access errors.
+- Aggregate incomplete/review/failure status and compressed Unicode log round-trip.
+
+PASS: Real headless Chromium integration (Chromium supplied by @sparticuz/chromium 153.0.0, driven by Playwright 1.62.1).
+- Original API asset performs no Initialize.
+- API activities 2 and 3 execute against a deterministic fake LMS.
+- All 30 API scenario commands plus lifecycle/launch checks completed.
+- Persistent progression across page launches and JSON download.
+- Wrong activity order and missing API are not passed.
+- Original CM-01 UI answers feed the runner before API execution.
+- DMI activity 1 and activity 2 execute 4,465 original commands in total.
+- Large log is persisted in compressed storage; no runner BLOCKED errors.
+- No uncaught browser page errors in these integration paths.
+
+The fake LMS intentionally does NOT implement the complete SCORM data model.
+DMI/CM fixture mismatches are expected and verify report plumbing; they are not conformance passes.
+
+NOT VERIFIED:
+- The user's FAD platform (no platform source/access was provided).
+- Full end-to-end execution of every generated scenario on a conformant LMS.
+- Differential parity against the original Java/IE suite.
+- Full Java datatype semantic comparator equivalence.
+- Edge/Firefox-specific behavior; only Chromium was executed here.
+- Schema validation of every manifest against the full SCORM specification; checks were structural and preservation-based.
+
+Source scenarios: 188, 842 visit entries, 11,870 commands.
+Generated ZIPs: 189. DDM data appears in both DDMa and DDMb, so per-ZIP counts total 855 visits and 11,990 commands; these are not additional unique tests.
+See README-IT.md for REVIEW conditions, known upstream repair and lifecycle limits.

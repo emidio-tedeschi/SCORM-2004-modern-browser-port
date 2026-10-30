@@ -1,0 +1,7 @@
+Browser modernization of ADL SCORM 2004 4th Edition Test Suite, experimental 0.1.0.
+Original repository: https://github.com/adlnet/SCORM-2004-4ed-Test-Suite
+Original work Copyright 2014 Advanced Distributed Learning, Apache License 2.0 (see upstream README).
+Modified 2026-10-29: browser driver, test-data conversion, packaging, reporting and verification.
+Original test page logic, scenarios and sequencing declarations are reused.
+This is an independent experimental port, not an ADL release or a validated equivalent of the official suite.
+Only the LMS test workflow is modernized. Other original suite utilities remain legacy.

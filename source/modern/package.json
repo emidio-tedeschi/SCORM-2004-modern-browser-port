@@ -1,0 +1,1 @@
+{"name":"adl-scorm-2004-modern-port","version":"0.1.0","private":true,"description":"Experimental browser port of the original ADL LMS scenarios","scripts":{"test":"node --test tests/core.test.js","test:browser":"node tests/browser.test.js"},"devDependencies":{"playwright":"1.62.1"}}
